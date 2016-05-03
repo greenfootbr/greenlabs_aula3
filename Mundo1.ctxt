@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mundo1
+comment0.text=\r\n\ Classe\ para\ criar\ o\ mundo\ 1.\r\n\ \r\n\ @author\ (Jhonatan\ Morais\ -\ jhonatanvinicius@gmail.com\ |\ jhonatan@dfjug.org)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Mundo1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

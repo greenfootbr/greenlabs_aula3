@@ -1,0 +1,34 @@
+#Greenfoot properties
+#Sun Apr 24 14:04:44 BRT 2016
+target1.type=ClassTarget
+project.charset=UTF-8
+mainWindow.height=728
+readme.y=10
+editor.fx.0.width=700
+readme.x=10
+editor.swing.0.y=40
+editor.swing.0.x=0
+version=2.8.0
+readme.height=58
+target1.typeParameters=
+simulation.speed=31
+world.lastInstantiated=Mundo1
+target1.height=50
+class.Mundo1.superclass=greenfoot.World
+target1.width=80
+editor.fx.0.y=0
+mainWindow.y=40
+mainWindow.x=0
+editor.fx.0.x=0
+readme.width=47
+editor.swing.0.height=0
+editor.swing.0.width=0
+editor.fx.0.height=700
+package.numDependencies=0
+target1.y=10
+target1.x=70
+package.numTargets=1
+mainWindow.width=1366
+target1.name=Mundo1
+target1.showInterface=false
+readme.name=@README
