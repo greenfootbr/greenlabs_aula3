@@ -10,12 +10,21 @@ Neste projeto concluimos a programação do primeiro mundo que iremos utilizar e
 * Tratamos algumas exceptions
 * Concluimos nosso primeiro objetivo de ter o cenário do jogo em movimento completo.
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://www.youtube.com/watch?v=C4Lq8CkW9yY)
+
 ## Equipe | Team
 
+** Edição, Produção e Arte
 * Daniel de Oliveira
 * Luciene Cavalcante
 * Aecio Junior
-* Jhonatan Morais - www.getjv.com.br
+* Jhonatan Morais - http://goo.gl/hoSdxW
+
+** Testes e Qualidade
+* Cesar Junior
+* José Raimundo
+* Maicon Oliveira
 
 ## Para mais sobre a iniciativa GreenfootBR acesse:
 * O site da comunidade DFJUG [http://www.dfjug.org](http://www.dfjug.org)
